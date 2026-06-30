@@ -1,0 +1,6 @@
+[package]
+name = "bar"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
